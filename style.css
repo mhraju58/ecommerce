@@ -50,3 +50,9 @@
     height: 300px;
     text-align: center;
 }
+#subscriber p{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
