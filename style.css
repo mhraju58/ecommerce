@@ -1,6 +1,9 @@
 .container{
     margin-bottom: 50px;
 }
+.bg-light-orange{
+    background-color: rgb(253 239 212);
+}
 .price{
     color: #ff136f;
 }
@@ -42,4 +45,8 @@
     border: none;
     box-shadow: 5px 5px 10px lightgray;
     border-radius: 10px;
+}
+#subscriber{
+    height: 300px;
+    text-align: center;
 }
