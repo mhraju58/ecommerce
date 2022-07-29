@@ -1,3 +1,6 @@
+.container{
+    margin-bottom: 50px;
+}
 .price{
     color: #ff136f;
 }
@@ -29,4 +32,14 @@
 }
 .catagory img{
     width: 100px;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
 }
